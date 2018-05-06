@@ -27,3 +27,9 @@ A simple jumping game, this will help with me learning basic collisions as well 
 
 ### Requirments 
 Python 3.X (written in 3.6) with standered python libary and [pygame](https://www.pygame.org)
+
+#### Plan
+
+__For current version__
+* Basic start menu and user configuration
+* Add game screen and creat sprites
